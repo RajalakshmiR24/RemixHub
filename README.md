@@ -3,11 +3,13 @@
 
 RemixHub is a React JS-based YouTube clone application that allows users to browse, search, and watch videos. This project utilizes Material UI 5 for a sleek and responsive user interface, and it integrates the YouTube Data API (v3) to fetch and display video content.
 
-![image](https://github.com/RajalakshmiR24/RemixHub-Youtube_Clone/assets/127002476/d53a5284-e43b-4e3d-ab19-e5cc4f15d9bd)
+![Screenshot (1156)](https://github.com/RajalakshmiR24/RemixHub/assets/127002476/3d014f2f-b1bd-4358-a699-9194e83dcf3a)
 
-![image](https://github.com/RajalakshmiR24/RemixHub-Youtube_Clone/assets/127002476/ac9478f7-b339-4b23-b1b7-8b1dfe2c21e6)
+![Screenshot (1157)](https://github.com/RajalakshmiR24/RemixHub/assets/127002476/485ac6e0-49c0-468c-97a6-c06eaa577aac)
 
-![image](https://github.com/RajalakshmiR24/RemixHub-Youtube_Clone/assets/127002476/e9c54123-bdf2-42f1-8040-77d06274d47a)
+![Screenshot (1158)](https://github.com/RajalakshmiR24/RemixHub/assets/127002476/9f32a524-dee8-4b4c-941b-3eedadab732e)
+
+
 
 ## Features
 - Browse and Search: Explore a vast collection of videos on RemixHub.
